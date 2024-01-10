@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prtfl-react/static/css/main.f855e6bc.css",
+    "main.js": "/prtfl-react/static/js/main.dbc1a6bd.js",
+    "static/js/787.478f69e1.chunk.js": "/prtfl-react/static/js/787.478f69e1.chunk.js",
+    "static/media/logo.svg": "/prtfl-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/prtfl-react/index.html",
+    "main.f855e6bc.css.map": "/prtfl-react/static/css/main.f855e6bc.css.map",
+    "main.dbc1a6bd.js.map": "/prtfl-react/static/js/main.dbc1a6bd.js.map",
+    "787.478f69e1.chunk.js.map": "/prtfl-react/static/js/787.478f69e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.dbc1a6bd.js"
+  ]
+}
